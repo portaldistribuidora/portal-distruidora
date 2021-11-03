@@ -9,7 +9,7 @@ export default function ContactUs() {
         <>
             <NextSeo
                 title="Entre em contato"
-                description="Entre em contato conosco pelo Whatasapp (62) 99501-0927"
+                description="Entre em contato conosco pelo Whatasapp (62) 3290-7222"
             />
             <Breadcrumb pageName="Fale conosco" />
             <div className="container pl-4 pr-4">
@@ -21,7 +21,7 @@ export default function ContactUs() {
                             Av. Ville Qd 26 Lt 34 N° 1983 - <br /> Residencial Center Ville, Goiânia - GO <br />
                             CEP: 74369-023 <br />
                             Telefone: (62) 3290-7222 <br />
-                            Whatsapp: (62) 99501-0927 <br />
+                            Whatsapp: (62) 3290-7222 <br />
                         </p>
                         <FooterSocial />
                     </div>
