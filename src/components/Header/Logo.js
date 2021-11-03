@@ -5,7 +5,7 @@ export function Logo() {
         <div className="col-lg-2 col-md-2 logo-container">
             <div className="logo">
                 <Link href="/">
-                    <img src="img/logo-portal.png" />
+                    <center> <img src="img/logo-portal.png" /> </center>
                 </Link>
             </div>
         </div>
