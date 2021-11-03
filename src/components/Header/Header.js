@@ -10,7 +10,7 @@ export function Header() {
             <div className="container">
                 <div className="inner-header">
                     <div className="row">
-                        <Logo />
+                   <center>     <Logo /> 
                     </div>
                 </div>
             </div>
